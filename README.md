@@ -93,49 +93,9 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 
 </div> 
 
-<div id="content-container" style="text-align: left; font-family: sans-serif; line-height: 1.6;">
-    
-    <!-- PREMIER CONTENU (Le profil actuel) -->
-    <div id="page1">
-        <h3>💼 About me(1/2)</h3>
-        <p>🔹 Senior Cloud & DevSecOps Security Architect - Fintech PAYMEQUIK LTD...</p>
-        <!-- clic for next -->
-        
-        <button onclick="afficherSuivant()" style="margin-top: 20px; padding: 10px 20px; cursor: pointer;">
-            Suivant ➡️
-        </button>
-    </div>
-
-   <!-- SECOND CONTENU (Le contenu du second readme) -->
-    <div id="page2" style="display: none;">
-        <h3>🛠️ Technical Arsenal (2/2)</h3>
-        <p>Voici le contenu de votre second fichier README...</p>
-        <ul>
-            <li> 🏆 Professional Certifications and Badges</li>
-            <li>🚀 Featured Projects</li>
-            <li>📊 GitHub Analytics</li>
-            <li>Languages & Interests</li>
-        </ul>
-        
-        <button onclick="afficherPrecedent()" style="margin-top: 20px; padding: 10px 20px; cursor: pointer;">
-            ⬅️ Précédent
-        </button>
-    </div>
-
+<div align="center">
+  <a href="README2.md">
+    <img src="https://img.shields.io" alt="Bouton Suivant">
+  </a>
 </div>
-
-<script>
-function afficherSuivant() {
-    document.getElementById('page1').style.display = 'none';
-    document.getElementById('page2').style.display = 'block';
-}
-
-function afficherPrecedent() {
-    document.getElementById('page2').style.display = 'none';
-    document.getElementById('page1').style.display = 'block';
-}
-</script>
-
-
-
 
