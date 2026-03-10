@@ -1,7 +1,46 @@
-c
+
 # 👋 Hello, I'm **Israel Samuel SANZOUANGO NOAH **
 
 ### 🛠️ Green Team - Automation - Platform Engineer/GitOps | Architecte Senior en Sécurité Cloud & DevSecOps | GRC | Trainer -- MBA exécutif
+
+<!-- SVG animé : alterne plusieurs intitulés de profil -->
+<svg width="100%" height="70" viewBox="0 0 1200 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rotating titles">
+  <style>
+    .title { font: 700 28px/1.2 "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #00E5FF; }
+    .bg { fill: #0D1117; }
+  </style>
+
+  <!-- fond (assorti au thème GitHub Dark) -->
+  <rect class="bg" x="0" y="0" width="1200" height="70" rx="8" />
+
+  <!-- 4 lignes, on joue sur l'opacité pour en afficher 1 à la fois -->
+  <text class="title" x="40" y="45" opacity="1">
+    Green Team - Automation - Platform Engineer/GitOps | Architecte Senior en Sécurité Cloud &amp; DevSecOps | GRC | Trainer
+    <animate attributeName="opacity" values="1;0" dur="1s" begin="0s;title4.end+0s" fill="freeze" id="title1"/>
+  </text>
+
+  <text class="title" x="40" y="45" opacity="0">
+    Systems &amp; Network Engineer
+    <set attributeName="opacity" to="1" begin="title1.end" dur="0.001s"/>
+    <animate attributeName="opacity" values="1;0" dur="1s" begin="title1.end+2.5s" fill="freeze" id="title2"/>
+  </text>
+
+  <text class="title" x="40" y="45" opacity="0">
+    Cloud &amp; Platform Security Architect (Azure | AWS | K8s)
+    <set attributeName="opacity" to="1" begin="title2.end" dur="0.001s"/>
+    <animate attributeName="opacity" values="1;0" dur="1s" begin="title2.end+2.5s" fill="freeze" id="title3"/>
+  </text>
+
+  <text class="title" x="40" y="45" opacity="0">
+    DevSecOps | SRE | Trainer
+    <set attributeName="opacity" to="1" begin="title3.end" dur="0.001s"/>
+    <animate attributeName="opacity" values="1;0" dur="1s" begin="title3.end+2.5s" fill="freeze" id="title4"/>
+  </text>
+
+  <!-- boucle infinie -->
+  <set attributeName="visibility" to="visible" begin="title4.end+0s" dur="0.001s" />
+</svg>
+
 
 🌍 Based in Rabat, Morocco  
 🎯 Open to international opportunities  
