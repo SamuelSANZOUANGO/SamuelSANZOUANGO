@@ -26,7 +26,6 @@
 ---
 
 ## 🔗 Links
-
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-EA4C46?style=for-the-badge&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelSANZOUANGO)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanzouango-noah-israel-samuel/)
