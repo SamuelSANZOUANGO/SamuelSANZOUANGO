@@ -93,6 +93,19 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 
 </div> 
 
+<div id="content-container" style="text-align: left; font-family: sans-serif; line-height: 1.6;">
+    
+    <!-- PREMIER CONTENU (Le profil actuel) -->
+    <div id="page1">
+        <h3>💼 About me(1/2)</h3>
+        <p>🔹 Senior Cloud & DevSecOps Security Architect - Fintech PAYMEQUIK LTD...</p>
+        <!-- clic for next -->
+        
+        <button onclick="afficherSuivant()" style="margin-top: 20px; padding: 10px 20px; cursor: pointer;">
+            Suivant ➡️
+        </button>
+    </div>
+
    <!-- SECOND CONTENU (Le contenu du second readme) -->
     <div id="page2" style="display: none;">
         <h3>🛠️ Technical Arsenal (2/2)</h3>
@@ -122,4 +135,7 @@ function afficherPrecedent() {
     document.getElementById('page1').style.display = 'block';
 }
 </script>
+
+
+
 
