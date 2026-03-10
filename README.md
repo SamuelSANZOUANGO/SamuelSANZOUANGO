@@ -172,7 +172,7 @@ Junior System Administrator — CyberCafé Anabel
 📍 Douala · Jul 2012 – Oct 2013 · 1 yr 4 months
 
 
- ## 🛠️ Technical Arsenal — DevSecOps & Cloud
+<h2> 🛠️ Technical Arsenal — DevSecOps & Cloud </h2>
 
 <div align="center">
 
@@ -370,8 +370,7 @@ Junior System Administrator — CyberCafé Anabel
 - **Gouvernance & Sécurité** : politiques de sécurité DevSecOps ; conformité *(ISO 27001, SOC 2, RGPD)* ; gestion des incidents et des vulnérabilités.  
 - **Communication & Collaboration** : collaboration inter‑équipes *(Dev, Sec, Ops, Data)* ; documentation claire ; animation de réunions & comités de pilotage.
 
-✅ SECTION — Leadership & Professional Skills
-## 🧭 Leadership & Professional Skills
+<h3> 👤 Leadership & Professional Skills </h3>
 
 ### 🧠 Leadership Technique
 - Architecture de solutions sécurisées et scalables  
