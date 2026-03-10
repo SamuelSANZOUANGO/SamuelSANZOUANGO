@@ -173,88 +173,138 @@ Junior System Administrator — CyberCafé Anabel
 
 
  ⚔️ Technical Arsenal
-☁️ Cloud & Infrastructure
+## 🛡️ DevSecOps & Cloud Engineering — Technical Arsenal
 
- https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
- https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
- https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white
-https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white
-https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white
-https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white
-https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white
+<div align="center">
 
+---
 
-🏗️ Cloud Engineering
+### 🔒 CI/CD sécurisé
 
- https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
- https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white
- https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white
- https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SAST](https://img.shields.io/badge/SAST-7B42BC?style=for-the-badge)
+![DAST](https://img.shields.io/badge/DAST-1F6FEB?style=for-the-badge)
+![SCA](https://img.shields.io/badge/SCA-2E7D32?style=for-the-badge)
 
+---
 
-🔧 DevOps & Automation
+### 🧱 Infrastructure as Code (IaC)
 
- https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
- https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
- https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
- https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
-https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white
-https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white
-https://img.shields.io/badge/ArgoCD-EA4C46?style=for-the-badge&logo=argo&logoColor=white
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ARM Templates](https://img.shields.io/badge/ARM%20Templates-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+---
 
-🛡️ DevSecOps & Security
+### ☁️ Sécurité Cloud
 
- https://img.shields.io/badge/SAST-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white
- https://img.shields.io/badge/DAST-OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white
- https://img.shields.io/badge/SCA-Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white
-https://img.shields.io/badge/Aqua_Security-0033A0?style=for-the-badge&logo=aqua&logoColor=white
-https://img.shields.io/badge/Clair-CC0000?style=for-the-badge&logo=clair&logoColor=white
-https://img.shields.io/badge/Anchore-0D1117?style=for-the-badge&logo=anchore&logoColor=white
-https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white
-https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white
-https://img.shields.io/badge/AWS_KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/GuardDuty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Security Groups](https://img.shields.io/badge/Security%20Groups-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure Security Center](https://img.shields.io/badge/Azure%20Security%20Center-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS GuardDuty](https://img.shields.io/badge/AWS%20GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+---
 
-🔐 Kubernetes Security
+### 📦 Container Security
 
- https://img.shields.io/badge/OPA-7C70F7?style=for-the-badge&logo=openpolicyagent&logoColor=white
- https://img.shields.io/badge/Kyverno-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
- https://img.shields.io/badge/PSP-000000?style=for-the-badge
- https://img.shields.io/badge/Network_Policies-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+![Docker Bench](https://img.shields.io/badge/Docker%20Bench-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+![Aqua Security](https://img.shields.io/badge/Aqua%20Security-01B8AA?style=for-the-badge)
 
+---
 
-📊 Monitoring & Observability
+### ☸️ Kubernetes Security
 
- https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white
- https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
- https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white
-https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=fluentd&logoColor=white
-https://img.shields.io/badge/Loki-0C48A1?style=for-the-badge&logo=grafana&logoColor=white
-https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white
-https://img.shields.io/badge/OpenTelemetry-683D87?style=for-the-badge&logo=opentelemetry&logoColor=white
+![Pod Security Policies](https://img.shields.io/badge/Pod%20Security%20Policies-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Network Policies](https://img.shields.io/badge/Network%20Policies-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OPA/Gatekeeper](https://img.shields.io/badge/OPA%2FGatekeeper-000000?style=for-the-badge&logo=openpolicyagent&logoColor=white)
+![Kyverno](https://img.shields.io/badge/Kyverno-185ADB?style=for-the-badge)
 
+---
 
-🎛️ SRE & Reliability
+### 📊 Monitoring & Logging
 
- https://img.shields.io/badge/SLI/SLO/SLA-000000?style=for-the-badge
- https://img.shields.io/badge/Postmortem-FF6B6B?style=for-the-badge
- https://img.shields.io/badge/Incident_Response-2E8B57?style=for-the-badge
- https://img.shields.io/badge/Capacity_Planning-808080?style=for-the-badge
- https://img.shields.io/badge/Error_Budgeting-8B0000?style=for-the-badge
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=fluentd&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-4A8FE7?style=for-the-badge)
 
+---
 
-🔧 Scripting & Tools
+### 🧪 DevSecOps Tools
 
- https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white
- https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
- https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Clair](https://img.shields.io/badge/Clair-FF6F00?style=for-the-badge)
+![Anchore](https://img.shields.io/badge/Anchore-0D1C2E?style=for-the-badge)
+
+---
+
+### 🏗️ Cloud Engineering (Azure • AWS)
+
+#### Services Cloud
+![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### Réseaux Cloud
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Subnets](https://img.shields.io/badge/Subnets-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-0052CC?style=for-the-badge)
+![Peering](https://img.shields.io/badge/Peering-0172CB?style=for-the-badge)
+![Load Balancers](https://img.shields.io/badge/Load%20Balancers-5E5E5E?style=for-the-badge)
+
+#### Optimisation des coûts
+![Budgets](https://img.shields.io/badge/Budgets-2E7D32?style=for-the-badge)
+![Reserved Instances](https://img.shields.io/badge/Reserved%20Instances-FF9900?style=for-the-badge)
+![Spot Instances](https://img.shields.io/badge/Spot%20Instances-FF9900?style=for-the-badge)
+
+#### Automatisation Cloud
+![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure DevOps Pipelines](https://img.shields.io/badge/Azure%20DevOps%20Pipelines-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+---
+
+### ⚙️ DevOps / Platform Engineering
+
+#### CI/CD
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+#### Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+
+#### Configuration Management
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWX](https://img.shields.io/badge/AWX-2C3E50?style=for-the-badge)
+
+#### Observabilité
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+#### Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 
 ✅ SECTION — Leadership & Professional Skills
