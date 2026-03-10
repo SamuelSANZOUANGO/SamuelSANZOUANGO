@@ -172,16 +172,12 @@ Junior System Administrator — CyberCafé Anabel
 📍 Douala · Jul 2012 – Oct 2013 · 1 yr 4 months
 
 
- Section "Technical Arsenal"
+ ⚔️ Technical Arsenal
+☁️ Cloud & Infrastructure
 
-## 🛠️ Technical Arsenal
-
----
-
-### ☁️ Cloud & Infrastructure
-https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white
+ https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+ https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
+ https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white
 https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white
 https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white
@@ -190,33 +186,33 @@ https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&
 https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white
 https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white
 
----
 
-### 🏗️ Cloud Engineering
-https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
-https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white
-https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white
-https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white
+🏗️ Cloud Engineering
 
----
+ https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
+ https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white
+ https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white
+ https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white
 
-### 🔧 DevOps & Automation
-https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
-https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
-https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
-https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white
+
+🔧 DevOps & Automation
+
+ https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
+ https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+ https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
+ https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white
 https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
 https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white
 https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white
 https://img.shields.io/badge/ArgoCD-EA4C46?style=for-the-badge&logo=argo&logoColor=white
 
----
 
-### 🛡️ DevSecOps & Security
-https://img.shields.io/badge/SAST-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white
-https://img.shields.io/badge/DAST-OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white
-https://img.shields.io/badge/SCA-Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white
+🛡️ DevSecOps & Security
+
+ https://img.shields.io/badge/SAST-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white
+ https://img.shields.io/badge/DAST-OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white
+ https://img.shields.io/badge/SCA-Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white
 https://img.shields.io/badge/Aqua_Security-0033A0?style=for-the-badge&logo=aqua&logoColor=white
 https://img.shields.io/badge/Clair-CC0000?style=for-the-badge&logo=clair&logoColor=white
 https://img.shields.io/badge/Anchore-0D1117?style=for-the-badge&logo=anchore&logoColor=white
@@ -225,40 +221,40 @@ https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoCol
 https://img.shields.io/badge/AWS_KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 https://img.shields.io/badge/GuardDuty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
 
----
 
-### 🔐 Kubernetes Security
-https://img.shields.io/badge/OPA-7C70F7?style=for-the-badge&logo=openpolicyagent&logoColor=white
-https://img.shields.io/badge/Kyverno-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
-https://img.shields.io/badge/PSP-000000?style=for-the-badge
-https://img.shields.io/badge/Network_Policies-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+🔐 Kubernetes Security
 
----
+ https://img.shields.io/badge/OPA-7C70F7?style=for-the-badge&logo=openpolicyagent&logoColor=white
+ https://img.shields.io/badge/Kyverno-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+ https://img.shields.io/badge/PSP-000000?style=for-the-badge
+ https://img.shields.io/badge/Network_Policies-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
 
-### 📊 Monitoring & Observability
-https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white
-https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
-https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white
+
+📊 Monitoring & Observability
+
+ https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white
+ https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
+ https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white
 https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=fluentd&logoColor=white
 https://img.shields.io/badge/Loki-0C48A1?style=for-the-badge&logo=grafana&logoColor=white
 https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white
 https://img.shields.io/badge/OpenTelemetry-683D87?style=for-the-badge&logo=opentelemetry&logoColor=white
 
----
 
-### 🎛️ SRE & Reliability
-https://img.shields.io/badge/SLI/SLO/SLA-000000?style=for-the-badge
-https://img.shields.io/badge/Postmortem-FF6B6B?style=for-the-badge
-https://img.shields.io/badge/Incident_Response-2E8B57?style=for-the-badge
-https://img.shields.io/badge/Capacity_Planning-808080?style=for-the-badge
-https://img.shields.io/badge/Error_Budgeting-8B0000?style=for-the-badge
+🎛️ SRE & Reliability
 
----
+ https://img.shields.io/badge/SLI/SLO/SLA-000000?style=for-the-badge
+ https://img.shields.io/badge/Postmortem-FF6B6B?style=for-the-badge
+ https://img.shields.io/badge/Incident_Response-2E8B57?style=for-the-badge
+ https://img.shields.io/badge/Capacity_Planning-808080?style=for-the-badge
+ https://img.shields.io/badge/Error_Budgeting-8B0000?style=for-the-badge
 
-### 🔧 Scripting & Tools
-https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+
+🔧 Scripting & Tools
+
+ https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white
+ https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+ https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
 
 
 ✅ SECTION — Leadership & Professional Skills
