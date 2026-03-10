@@ -1,9 +1,4 @@
-<h2>🛠️ Technical Arsenal — DevSecOps & Cloud</h2>
-
-<div align="center">
-
-<hr/>
-## 💻 QUELQUES LOGICIELS
+<h2>🛠️ Technical Arsenal </h2>
 
 <div align="center">
 
@@ -160,11 +155,9 @@
 
 </div>
 
+<div align="left">
 
-
-
-
-
+---
 
 ### 👤 Compétences Managériales & Stratégiques
 
@@ -211,7 +204,7 @@
 - Collaboration inter-équipes (Dev / Sec / Ops / Cloud / Data)  
 - Animation d’ateliers techniques, comités d’architecture & COPIL  
 
-
+</div>
 
 <div align="center">
   <a href="README.md">
