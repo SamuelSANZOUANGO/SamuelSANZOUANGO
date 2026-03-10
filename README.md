@@ -93,3 +93,33 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 
 </div> 
 
+   <!-- SECOND CONTENU (Le contenu du second readme) -->
+    <div id="page2" style="display: none;">
+        <h3>🛠️ Technical Arsenal (2/2)</h3>
+        <p>Voici le contenu de votre second fichier README...</p>
+        <ul>
+            <li> 🏆 Professional Certifications and Badges</li>
+            <li>🚀 Featured Projects</li>
+            <li>📊 GitHub Analytics</li>
+            <li>Languages & Interests</li>
+        </ul>
+        
+        <button onclick="afficherPrecedent()" style="margin-top: 20px; padding: 10px 20px; cursor: pointer;">
+            ⬅️ Précédent
+        </button>
+    </div>
+
+</div>
+
+<script>
+function afficherSuivant() {
+    document.getElementById('page1').style.display = 'none';
+    document.getElementById('page2').style.display = 'block';
+}
+
+function afficherPrecedent() {
+    document.getElementById('page2').style.display = 'none';
+    document.getElementById('page1').style.display = 'block';
+}
+</script>
+
