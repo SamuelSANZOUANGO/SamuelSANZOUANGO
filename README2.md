@@ -8,8 +8,19 @@
 [![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
 
 
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
 
-https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
+
+https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white 
 https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
 https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
 https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
@@ -167,6 +178,7 @@ https://img.shields.io/badge/Backup%20%26%20DR-5E5E5E?style=for-the-badge
 
 <hr/>
 
+### 📅 Gestion de Projet
 <h3>🚀 CI/CD &amp; Déploiement</h3>
 https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
 https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
@@ -233,3 +245,11 @@ https://img.shields.io/badge/Security%20Scans-DC2626?style=for-the-badge
 ### 🤝 Communication & Collaboration
 - Collaboration inter-équipes (Dev / Sec / Ops / Cloud / Data)  
 - Animation d’ateliers techniques, comités d’architecture & COPIL  
+
+
+
+<div align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io" alt="Previous">
+  </a>
+</div>
