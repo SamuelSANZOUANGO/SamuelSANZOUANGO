@@ -9,7 +9,22 @@
 ✉️ Contact: israel.noah29@gmail.com / digitalworkcameroon2020@gmail.com
 
 ---
+<p>Expert plus de 8 ans d'expérience en conception et implémentation de plateformes cloud sécurisées, automatisation avancée et amélioration continue de la fiabilité des systèmes. Je maîtrise les pipelines CI/CD sécurisés, architectures cloud scalables (AWS, Azure), pratiques GitOps avec ArgoCD, Infrastructure as Code (Terraform, Terragrunt, Ansible, Helm) et environnements conteneurisés à grande échelle (Docker, Kubernetes, EKS, AKE, AKS).</p>
+<p>
+  <ul>
+  <li>Green Team Automation : Intégration sécurité proactive dans DevSecOps pour pipelines résilients.<br></li>
 
+  <li>Management de la sécurité des SI : Aligné quotidiennement avec DevSecOps et GRC pour conformité et risk management.<br></li>
+
+  <li>DevSecOps & GitOps : Automatisation des déploiements sécurisés et observabilité.<br></li>
+
+  <li>vCloud Security : Architectures sécurisées multi-cloud, formation équipes.<br></li>
+</ul><br>
+Spécialiste en GRC et formation, je pilote des initiatives d'amélioration continue alliant sécurité, scalabilité et gouvernance. <br>
+
+</p>
+
+---
 ### 🔗 Links
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-EA4C46?style=for-the-badge&logoColor=white)](#)
