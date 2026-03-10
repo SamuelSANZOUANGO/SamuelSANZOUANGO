@@ -24,6 +24,8 @@
  </div>
 
 
+---
+
 ### 🔗 Links
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-EA4C46?style=for-the-badge&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelSANZOUANGO)
