@@ -1,4 +1,4 @@
-<h2>🛠️ Technical Arsenal </h2>
+## 🛠️ Technical Arsenal 
 
 <div align="center">
 
@@ -159,14 +159,7 @@
 
 ---
 
-### 👤 Compétences Managériales & Stratégiques
-
-- **Leadership Technique** : architecture sécurisée & scalable ; mentorat/formation d’équipes DevOps/Cloud ; veille technologique et adoption de nouvelles pratiques.  
-- **Gestion de Projet** : Agile/Scrum/Kanban ; pilotage des livrables CI/CD & environnements ; suivi des KPIs de performance & sécurité.  
-- **Gouvernance & Sécurité** : politiques de sécurité DevSecOps ; conformité *(ISO 27001, SOC 2, RGPD)* ; gestion des incidents et des vulnérabilités.  
-- **Communication & Collaboration** : collaboration inter‑équipes *(Dev, Sec, Ops, Data)* ; documentation claire ; animation de réunions & comités de pilotage.
-
-<h3> 👤 Leadership & Professional Skills </h3>
+## 👤 Compétences Managériales & Stratégiques
 
 ### 🧠 Leadership Technique
 - Architecture de solutions sécurisées et scalables  
