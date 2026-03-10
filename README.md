@@ -1,5 +1,4 @@
-<div align="center">
-
+c
 # 👋 Hello, I'm **Israel Samuel SANZOUANGO NOAH **
 
 ### 🛠️ Green Team - Automation - Platform Engineer/GitOps | Architecte Senior en Sécurité Cloud & DevSecOps | GRC | Trainer -- MBA exécutif
@@ -36,8 +35,10 @@ managerial & strategic skills : Learderships technique | Gestion de projets | GR
 
 <div>
 
-<div>
-💼 Professional Experience
+<div align="left">
+
+### 💼 Professional Experience
+  
 🔹 Senior Cloud & DevSecOps Security Architect - Fintech PAYMEQUIK LTD — (Fev. 2025 - Present)
 Key Achievements:
 🏗️ Designed & led secure multi-cloud architectures (AWS, Azure, GCP) aligned with Zero Trust & regulatory frameworks.
