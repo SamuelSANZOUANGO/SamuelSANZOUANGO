@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-```yaml
+
 name: Israel Samuel SANZOUANGO NOAH 
 role: System & Security Engineer | Green Team Automatio
 specialization: [Cloud Security, DevSecOps, IaC, Platform Engineer, GRC, Multi-Cloud]
@@ -32,8 +32,10 @@ seeking: Senior roles | International opportunities
 technicals skiils : DevSecOps & DevOps | Cloud Engineer Azure & AWS | Platform Engineer & GitOps | SRE | FinOps | CI/CD
 managerial & strategic skills : Learderships technique | Gestion de projets | GRC | Communication & Collaboration | Trainer
 
---------------------------------------------------------------------------------------------------------------------------
+```
+<div align="center">
 
+<div>
 💼 Professional Experience
 🔹 Senior Cloud & DevSecOps Security Architect - Fintech PAYMEQUIK LTD — (Fev. 2025 - Present)
 Key Achievements:
