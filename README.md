@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-
+```yaml
 name: Israel Samuel SANZOUANGO NOAH 
 role: System & Security Engineer | Green Team Automatio
 specialization: [Cloud Security, DevSecOps, IaC, Platform Engineer, GRC, Multi-Cloud]
@@ -33,6 +33,7 @@ technicals skiils : DevSecOps & DevOps | Cloud Engineer Azure & AWS | Platform E
 managerial & strategic skills : Learderships technique | Gestion de projets | GRC | Communication & Collaboration | Trainer
 
 ```
+
 <div align="center">
 
 <div>
