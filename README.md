@@ -3,43 +3,84 @@
 
 ### 🛠️ Green Team - Automation - Platform Engineer/GitOps | Architecte Senior en Sécurité Cloud & DevSecOps | GRC | Trainer -- MBA exécutif
 
-<!-- SVG animé : alterne plusieurs intitulés de profil -->
-<svg width="100%" height="70" viewBox="0 0 1200 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rotating titles">
+
+
+<!-- SVG animé : messages qui apparaissent progressivement puis disparaissent
+     pendant que le suivant apparaît (cross-fade). Aucun JS, 100% compatible README GitHub. -->
+<svg width="100%" height="70" viewBox="0 0 1400 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated rotating titles">
   <style>
-    .title { font: 700 28px/1.2 "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #00E5FF; }
-    .bg { fill: #0D1117; }
+    .bg { fill: #0D1117; }                  /* fond (adapté au thème GitHub Dark) */
+    .t  { font: 700 28px/1.2 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+           fill: #00E5FF;                   /* couleur du texte */
+           letter-spacing: .2px; }
   </style>
 
-  <!-- fond (assorti au thème GitHub Dark) -->
-  <rect class="bg" x="0" y="0" width="1200" height="70" rx="8" />
+  <!-- fond arrondi -->
+  <rect class="bg" x="0" y="0" width="1400" height="70" rx="10"/>
 
-  <!-- 4 lignes, on joue sur l'opacité pour en afficher 1 à la fois -->
-  <text class="title" x="40" y="45" opacity="1">
+  <!-- Message 1 -->
+  <text class="t" x="40" y="45">
     Green Team - Automation - Platform Engineer/GitOps | Architecte Senior en Sécurité Cloud &amp; DevSecOps | GRC | Trainer
-    <animate attributeName="opacity" values="1;0" dur="1s" begin="0s;title4.end+0s" fill="freeze" id="title1"/>
+    <!-- 5s par message, fondu de 0.6s, puis cross-fade 0.6s avant la fin -->
+    <animate id="a1"
+             attributeName="opacity"
+             values="0;1;1;0"
+             keyTimes="0;0.12;0.88;1"
+             dur="5s"
+             begin="0s; a4.end-0.6s"
+             fill="freeze"/>
   </text>
 
-  <text class="title" x="40" y="45" opacity="0">
+  <!-- Message 2 -->
+  <text class="t" x="40" y="45">
     Systems &amp; Network Engineer
-    <set attributeName="opacity" to="1" begin="title1.end" dur="0.001s"/>
-    <animate attributeName="opacity" values="1;0" dur="1s" begin="title1.end+2.5s" fill="freeze" id="title2"/>
+    <animate id="a2"
+             attributeName="opacity"
+             values="0;1;1;0"
+             keyTimes="0;0.12;0.88;1"
+             dur="5s"
+             begin="a1.end-0.6s"
+             fill="freeze"/>
   </text>
 
-  <text class="title" x="40" y="45" opacity="0">
+  <!-- Message 3 -->
+  <text class="t" x="40" y="45">
     Cloud &amp; Platform Security Architect (Azure | AWS | K8s)
-    <set attributeName="opacity" to="1" begin="title2.end" dur="0.001s"/>
-    <animate attributeName="opacity" values="1;0" dur="1s" begin="title2.end+2.5s" fill="freeze" id="title3"/>
+    <animate id="a3"
+             attributeName="opacity"
+             values="0;1;1;0"
+             keyTimes="0;0.12;0.88;1"
+             dur="5s"
+             begin="a2.end-0.6s"
+             fill="freeze"/>
   </text>
 
-  <text class="title" x="40" y="45" opacity="0">
+  <!-- Message 4 -->
+  <text class="t" x="40" y="45">
     DevSecOps | SRE | Trainer
-    <set attributeName="opacity" to="1" begin="title3.end" dur="0.001s"/>
-    <animate attributeName="opacity" values="1;0" dur="1s" begin="title3.end+2.5s" fill="freeze" id="title4"/>
+    <animate id="a4"
+             attributeName="opacity"
+             values="0;1;1;0"
+             keyTimes="0;0.12;0.88;1"
+             dur="5s"
+             begin="a3.end-0.6s"
+             fill="freeze"/>
   </text>
-
-  <!-- boucle infinie -->
-  <set attributeName="visibility" to="visible" begin="title4.end+0s" dur="0.001s" />
 </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 🌍 Based in Rabat, Morocco  
@@ -62,7 +103,7 @@
 
 ```yaml
 name: Israel Samuel SANZOUANGO NOAH 
-role: System & Security Engineer | Green Team Automatio
+role: System & Security Engineer | Green Team - Automation
 specialization: [Cloud Security, DevSecOps, IaC, Platform Engineer, GRC, Multi-Cloud]
 current_position: Consultant / Senior Architect in Cloud Security & DevSecOps, GRC and Training
 location: Rabat, Morocco
