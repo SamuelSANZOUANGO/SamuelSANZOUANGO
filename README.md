@@ -37,22 +37,26 @@ managerial & strategic skills : Learderships technique | Gestion de projets | GR
 
 <div align="left">
 
+<div style="text-align: left;">
+
 ### 💼 Professional Experience
   
-🔹 Senior Cloud & DevSecOps Security Architect - Fintech PAYMEQUIK LTD — (Fev. 2025 - Present)
-Key Achievements:
-🏗️ Designed & led secure multi-cloud architectures (AWS, Azure, GCP) aligned with Zero Trust & regulatory frameworks.
-🔐 Implemented Zero Trust model across cloud workloads (IAM/PAM, network segmentation, mTLS, identity boundaries).
-⚙️ Secured enterprise CI/CD pipelines (GitLab, GitHub Actions, Jenkins, Azure DevOps) with SAST, SCA, DAST, IaC scanning & security gates.
-🛡️ Hardened Kubernetes platforms (EKS, AKS, GKE) using OPA/Kyverno, Pod Security Standards, runtime protection (Falco).
-☁️ Built IaC standards using Terraform, Bicep & Ansible (landing zones, VPC/VNet, IAM, KMS, AKS/EKS modules).
-🧭 Led the DevSecOps roadmap, including cloud hardening, compliance automation, pipeline security & SOC integration.
-📊 Delivered SIEM dashboards (Elastic, Sentinel, Grafana) for threat detection, cloud posture & compliance tracking.
-🔎 Conducted vulnerability management & cloud-focused pentesting (CI/CD, workloads, IAM surface).
-🧑‍🏫 Trained and coached DevOps, Cloud & SecOps teams on DevSecOps, cloud security, CI/CD, and IaC best practices.
-🏛️ Translated ISO 27001, NIST & RGPD requirements into technical enforcement (policies, monitoring, evidence as code).
-🚨 Coordinated security incident response & executed PRA/PCA drills across multi-cloud environments.
+**🔹 Senior Cloud & DevSecOps Security Architect - Fintech PAYMEQUIK LTD — (Fev. 2025 - Present)**<br>
+**Key Achievements:**<br>
+🏗️ Designed & led secure multi-cloud architectures (AWS, Azure, GCP) aligned with Zero Trust & regulatory frameworks.<br>
+🔐 Implemented Zero Trust model across cloud workloads (IAM/PAM, network segmentation, mTLS, identity boundaries.<br>
+⚙️ Secured enterprise CI/CD pipelines (GitLab, GitHub Actions, Jenkins, Azure DevOps) with SAST, SCA, DAST, IaC scanning & security gates.<br>
+🛡️ Hardened Kubernetes platforms (EKS, AKS, GKE) using OPA/Kyverno, Pod Security Standards, runtime protection (Falco).<br>
+☁️ Built IaC standards using Terraform, Bicep & Ansible (landing zones, VPC/VNet, IAM, KMS, AKS/EKS modules).<br>
+🧭 Led the DevSecOps roadmap, including cloud hardening, compliance automation, pipeline security & SOC integration.<br>
+📊 Delivered SIEM dashboards (Elastic, Sentinel, Grafana) for threat detection, cloud posture & compliance tracking.<br>
+🔎 Conducted vulnerability management & cloud-focused pentesting (CI/CD, workloads, IAM surface).<br>
+🧑‍🏫 Trained and coached DevOps, Cloud & SecOps teams on DevSecOps, cloud security, CI/CD, and IaC best practices.<br>
+🏛️ Translated ISO 27001, NIST & RGPD requirements into technical enforcement (policies, monitoring, evidence as code).<br>
+🚨 Coordinated security incident response & executed PRA/PCA drills across multi-cloud environments.<br>
 👥 Acted as technical security advisor to CTO, RSSI & Product Owners (GRC, risk management, reporting).
+
+</div>
 
 🔹 Previous Roles
 
