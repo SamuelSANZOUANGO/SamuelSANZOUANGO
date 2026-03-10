@@ -41,7 +41,7 @@ managerial & strategic skills : Learderships technique | Gestion de projets | GR
 
 ### 💼 Professional Experience
   
-**🔹 Senior Cloud & DevSecOps Security Architect - Fintech PAYMEQUIK LTD — (Fev. 2025 - Present)**<br>
+**🔹 Senior Cloud & DevSecOps Security Architect - Fintech PAYMEQUIK LTD — 📍 Cameroon · Remote (Fev. 2025 - Present)**<br>
 **Key Achievements:**<br>
 🏗️ Designed & led secure multi-cloud architectures (AWS, Azure, GCP) aligned with Zero Trust & regulatory frameworks.<br>
 🔐 Implemented Zero Trust model across cloud workloads (IAM/PAM, network segmentation, mTLS, identity boundaries.<br>
@@ -60,56 +60,20 @@ managerial & strategic skills : Learderships technique | Gestion de projets | GR
 
 🔹 Previous Roles
 
-Application & System Integration Consultant — Sanlam Maroc (Freelance)
-📍 Casablanca · On‑site — Sept 2024 – Mar 2025 · 7 months
+Application & System Integration Consultant — Sanlam Maroc (Freelance)<br>
+📍 Casablanca · On‑site — Sept 2024 – Mar 2025 · 7 months<br>
 
-Head of DevSecOps & SRE — Solidarityworld (Seasonal - Freelance)
-📍 Remote — Sept 2024 – Jan 2025 · 5 months
+Head of DevSecOps & SRE — Solidarityworld (Seasonal - Freelance)<br>
+📍 Remote — Sept 2024 – Jan 2025 · 5 months<br>
 
-Senior DevSecOps / SRE Engineer — Solidarityworld (Seasonal - Freelance)
-📍 Global · Remote — May 2024 – Oct 2024 · 6 months
+Senior DevSecOps / SRE Engineer — Solidarityworld (Seasonal - Freelance)<br>
+📍 Global · Remote — May 2024 – Oct 2024 · 6 months<br>
 
-Senior DevSecOps Cloud Consultant — AGILFRA Digit (Freelance - Freelance)
-📍 Douala · Remote — Jul 2023 – Oct 2024 · 1 yr 4 mos
+Senior DevSecOps Cloud Consultant — AGILFRA Digit (Freelance - Freelance)<br>
+📍 Douala · Remote — Jul 2023 – Oct 2024 · 1 yr 4 months<br>
 
-DevOps Engineer — Sofrecom Maroc (CDI)
-📍 Hybrid · May 2022 – Jun 2023 · 1 yr 2 mos
-
-DevSecOps Engineer — Confidential (Freelance)
-📍 Rabat · On-site — Nov 2021 – May 2022 · 7 months
-
-DevSecOps Engineer — ShellBoxes (PFE)
-📍 Marrakech — Apr 2021 – Nov 2021 · 8 months
-
-Co‑Founder & CEO — Digital Work Cameroon 
-📍 Douala · Remote — Jan 2019 – Sept 2021 · 2 yrs 9 mos
-
-DevOps Engineer — Alpha Toute (CDD)
-📍 Rabat · Jul 2020 – Apr 2021 · 10 months
-
-Microsoft 365 Consultant & Trainer — Souob Engineering (CDD)
-📍 Rabat · Feb 2020 – Jul 2020 · 6 months
-
-DevOps / Linux Administrator — Alpha Toute (CDD)
-📍 Rabat · Part‑time — Jul 2019 – May 2020 · 11 months
-
-IT Consultant — Souob Engineering (CDD)
-📍 Morocco · Dec 2018 – Jun 2019 · 7 months
-
-Linux System Administrator — COMPLEO Technologies
-📍 Rabat · Jan 2018 – Oct 2018 · 10 months
-
-Community Manager — PASSGO®
-📍 Rabat · Jul 2017 – Dec 2017 · 6 months
-
-System Administrator — Indigo Group 
-📍 Rabat · Jan 2017 – May 2017 · 5 months
-
-Functional Analyst — Albatres Ingénierie (CDD)
-📍 Yaoundé · Jul 2014 – Oct 2015 · 1 yr 4 months
-
-Junior System Administrator — CyberCafé Anabel (CDI)
-📍 Douala · Jul 2012 – Oct 2013 · 1 yr 4 months
+DevOps Engineer — Sofrecom Maroc (CDI)<br>
+📍 Hybrid · May 2022 – Jun 2023 · 1 yr 2 months<br>
 
 </div> 
----
+
