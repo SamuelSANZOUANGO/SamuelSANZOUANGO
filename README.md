@@ -171,6 +171,9 @@ Functional Analyst — Albatres Ingénierie
 Junior System Administrator — CyberCafé Anabel
 📍 Douala · Jul 2012 – Oct 2013 · 1 yr 4 months
 
+```yaml
+
+---
 
 
 
@@ -182,6 +185,11 @@ Junior System Administrator — CyberCafé Anabel
 <hr/>
 
 <h3>🔒 CI/CD sécurisé</h3>
+[![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+
+
+
+
 https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
 https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
 https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
