@@ -344,10 +344,23 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 
 </div>
 
-
+## 📊 GitHub Analytics
 <div align="center">
 
+<!-- 🔥 Streak (DenverCoder1) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=SamuelSANZOUANGO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<!-- 📊 Stats globales (anuraghazra) -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelSANZOUANGO&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 🧠 Langages les plus utilisés (anuraghazra) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSANZOUANGO&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 📈 Activity Graph (Ashutosh00710) -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelSANZOUANGO&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<!-- 🏆 Trophies (ryo-ma) — optionnel, commente si tu n’en veux pas -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SamuelSANZOUANGO&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
