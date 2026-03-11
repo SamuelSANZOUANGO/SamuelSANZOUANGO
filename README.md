@@ -5,8 +5,8 @@
 ### 🛠️ Green Team - Automation - Platform Engineer/GitOps | Architecte Senior en Sécurité Cloud & DevSecOps | GRC | IA Evangelist| Trainer <br>
  ##### MBA exécutif Management de la Cybersécurité et Gouvernance des Systèmes d’Information 
 
-🌍 Based in Rabat, Morocco  
-🎯 Open to international opportunities  
+🌍 Basé in Rabat, Morocco  
+🎯 Ouvert aux opportunités nationales & internationales  
 ✉️ Contact: israel.noah29@gmail.com / digitalworkcameroon2020@gmail.com
 
 ---
@@ -408,3 +408,30 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 
 </div>
 
+## 🤝 COLLABORATION 
+
+<div align="center">
+
+Je suis toujours ravi de collaborer à des projets innovants et d’échanger sur les dernières technologies  
+**Cloud ☁️**, **Sécurité 🔐**, **DevSecOps ⚙️**, **Automatisation 🤖**, et **Architecture scalable 🏗️**.
+
+---
+
+### 📬 Me contacter
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israel.noah29@gmail.com)
+[![Alt Email](https://img.shields.io/badge/Email%202-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digitalworkcameroon2020@gmail.com)
+[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/sanzouango-noah)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-EA4C46?style=for-the-badge&logoColor=white)](#)
+
+---
+### 👀 Vues du profil  
+![visitors](https://komarev.com/ghpvc/?username=SamuelSANZOUANGO&color=blueviolet&style=for-the-badge)
+
+---
+
+### ✨ Message d’inspiration  
+> **« Green Team mindset. Automatisation intelligente. Architecture Cloud sécurisée.  
+> DevSecOps, GitOps & GRC — pour créer des plateformes fiables, évolutives et centrées sur l’excellence. »**
+
+
+</div>
