@@ -3,7 +3,7 @@
 # 👋 Hello, I'm **Israel Samuel SANZOUANGO NOAH **
 
 ### 🛠️ Green Team - Automation - Platform Engineer/GitOps | Architecte Senior en Sécurité Cloud & DevSecOps | GRC | IA Evangelist| Trainer <br>
- ### MBA exécutif Management de la Cybersécurité et Gouvernance des Systèmes d’Information (MaCYB) EGE campus <br>
+ ## MBA exécutif Management de la Cybersécurité et Gouvernance des Systèmes d’Information (MaCYB) EGE campus <br>
 
 🌍 Based in Rabat, Morocco  
 🎯 Open to international opportunities  
