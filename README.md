@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm **Israel Samuel SANZOUANGO NOAH **
 
-### 🛠️ Green Team - Automation - Platform Engineer/GitOps | Architecte Senior en Sécurité Cloud & DevSecOps | GRC | Trainer -- MBA exécutif
+### 🛠️ Green Team - Automation - Platform Engineer/GitOps | Architecte Senior en Sécurité Cloud & DevSecOps | GRC | Trainer -- MBA exécutif Management de la Cybersécurité et Gouvernance des Systèmes d’Information (MaCYB) EGE campus 
 
 🌍 Based in Rabat, Morocco  
 🎯 Open to international opportunities  
@@ -11,7 +11,7 @@
 ---
 
  <div align="left">
-  <p>Expert plus de 8 ans d'expérience en conception et implémentation de plateformes cloud sécurisées, automatisation avancée et amélioration continue de la fiabilité des systèmes. Je maîtrise les pipelines CI/CD sécurisés, architectures cloud scalables (AWS, Azure), pratiques GitOps avec ArgoCD, Infrastructure as Code (Terraform, Terragrunt, Ansible, Helm) et environnements conteneurisés à grande échelle (Docker, Kubernetes, EKS, AKE, AKS).</p>
+  <p>Avec plus de 13 ans dans l'informatique puis plus de 8 ans d'expérience en conception et implémentation de plateformes cloud sécurisées, automatisation avancée et amélioration continue de la fiabilité des systèmes. Je maîtrise les pipelines CI/CD sécurisés, architectures cloud scalables (AWS, Azure), pratiques GitOps avec ArgoCD, Infrastructure as Code (Terraform, Terragrunt, Ansible, Helm) et environnements conteneurisés à grande échelle (Docker, Kubernetes, EKS, AKE, AKS).</p>
   <p>
     <ul>
       <li>Green Team Automation : Intégration sécurité proactive dans DevSecOps pour pipelines résilients.<br></li>
