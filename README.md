@@ -3,7 +3,7 @@
 # 👋 Hello, I'm **Israel Samuel SANZOUANGO NOAH **
 
 ### 🛠️ Green Team - Automation - Platform Engineer/GitOps | Architecte Senior en Sécurité Cloud & DevSecOps | GRC | IA Evangelist| Trainer <br>
- ## MBA exécutif Management de la Cybersécurité et Gouvernance des Systèmes d’Information (MaCYB) EGE campus <br>
+ ##### MBA exécutif Management de la Cybersécurité et Gouvernance des Systèmes d’Information 
 
 🌍 Based in Rabat, Morocco  
 🎯 Open to international opportunities  
@@ -31,6 +31,9 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-EA4C46?style=for-the-badge&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelSANZOUANGO)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanzouango-noah-israel-samuel/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SanzouangoNoah)
+![Gmail 1-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digitalworkcameroon2020@gmail.com)
+[![Gmail 2](https://img.shields.io/badge/Gmail%20
 
 </div>
 
