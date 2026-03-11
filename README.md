@@ -96,7 +96,7 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 
 <div align="center">
 
-## 🛡️ DevSecOps
+## 🛡️ COMPETENCES TECHNIQUES ET OUTILLAGES
 
 ---
 
