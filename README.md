@@ -348,4 +348,23 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 </div>
 
 
+## 🌍 Languages & Interests
+---
+
+<div align="center">
+
+### 🗣️ Languages  
+🟣 **Languages:**  
+🇫🇷 French &nbsp; | &nbsp; 🇬🇧 English  
+
+---
+
+### 🎯 Interests  
+💖 **Interests:**  
+
+🧠 Veille technologique &nbsp; | &nbsp; 🎮 Jeux vidéo &nbsp; | &nbsp; 🎬 Cinéma  
+⚽ Sport &nbsp; | &nbsp; ✈️ Voyage &nbsp; | &nbsp; 📚 Lecture  
+🎵 Musique &nbsp; | &nbsp; 🎉 Soirée de groupe  
+
+</div>
 
