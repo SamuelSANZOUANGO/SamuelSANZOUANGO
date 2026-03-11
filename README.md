@@ -92,12 +92,9 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 
 </div> 
 
-
-<div align="center">
-
-
 ## 🛡️ COMPETENCES TECHNIQUES ET OUTILLAGES
 
+<div align="center">
 
 ### 🔒 CI/CD Sécurisé
 [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
