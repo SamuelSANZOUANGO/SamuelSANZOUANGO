@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 A propros
 
 ```yaml
 name: Israel Samuel SANZOUANGO NOAH 
@@ -51,11 +51,10 @@ managerial & strategic skills : Learderships technique | Gestion de projets | GR
 
 <div>
 
-<div align="left">
 
 <div style="text-align: left;">
 
-## 💼 Professional Experience
+## 💼 EXPERIENCES PROFESSIONNELLES
   
 **🔹 Senior Cloud & DevSecOps Security Architect - Fintech PAYMEQUIK LTD — 📍 Cameroon · Remote (Fev. 2025 - Present)**<br>
 **Key Achievements:**<br>
@@ -95,6 +94,7 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 
 
 <div align="center">
+
 
 ## 🛡️ COMPETENCES TECHNIQUES ET OUTILLAGES
 
