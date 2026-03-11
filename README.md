@@ -17,7 +17,7 @@
       <li>Green Team Automation : Intégration sécurité proactive dans DevSecOps pour pipelines résilients.<br></li>
       <li>Management de la sécurité des SI : Aligné quotidiennement avec DevSecOps et GRC pour conformité et risk management.<br></li>
       <li>DevSecOps & GitOps : Automatisation des déploiements sécurisés et observabilité.<br></li>
-      <li>vCloud Security : Architectures sécurisées multi-cloud, formation équipes.<br></li>
+      <li>Cloud Security : Architectures sécurisées multi-cloud, formation équipes.<br></li>
     </ul><br>
       Spécialiste en GRC et formation, je pilote des initiatives d'amélioration continue alliant sécurité, scalabilité et gouvernance. <br>
   </p>
