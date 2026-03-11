@@ -347,20 +347,48 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 ## 📊 GitHub Analytics
 <div align="center">
 
-<!-- 🔥 Streak (DenverCoder1) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SamuelSANZOUANGO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  <!-- Ligne 1 : Streak + Stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=SamuelSANZOUANGO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr"
+      alt="GitHub Streak"
+      height="180"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=SamuelSANZOUANGO&show_icons=true&theme=tokyonight&hide_border=true&locale=fr"
+      alt="GitHub Stats"
+      height="180"
+    />
+  </a>
 
-<!-- 📊 Stats globales (anuraghazra) -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelSANZOUANGO&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- Ligne 2 : Top Langs + Activity Graph (compact) -->
+  <br/><br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSANZOUANGO&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+      alt="Top Langs"
+      height="180"
+    />
+  </a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSANZOUANGO&theme=tokyo-night&hide_border=true&area=true"
+      alt="Activity Graph"
+      height="180"
+    />
+  </a>
 
-<!-- 🧠 Langages les plus utilisés (anuraghazra) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSANZOUANGO&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 📈 Activity Graph (Ashutosh00710) -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelSANZOUANGO&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-<!-- 🏆 Trophies (ryo-ma) — optionnel, commente si tu n’en veux pas -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SamuelSANZOUANGO&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  <!-- Ligne 3 : Trophies (pleine largeur) -->
+  <br/><br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=SamuelSANZOUANGO&theme=onedark&no-frame=true&no-bg=true&row=1&column=6"
+      alt="Trophies"
+      width="100%"
+    />
+  </a>
 
 </div>
 
