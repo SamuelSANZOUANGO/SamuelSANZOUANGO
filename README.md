@@ -347,7 +347,6 @@ DevOps Engineer — Sofrecom Maroc (CDI)<br>
 
 </div>
 
-
 ## 🌍 Languages & Interests
 ---
 
